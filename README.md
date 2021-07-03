@@ -1,10 +1,10 @@
 # Habits
 
-A list of my current habits and routines
+This is a list of my current habits and routines
 
 ## Food
 
-Currently I'm eating every day the same food as follows:
+Currently I'm eating every day the same food. It is easy to count calories and I can keep track of what to buy or what to change.
 
 _Breakfast_:
 
@@ -24,6 +24,20 @@ _Meal_:
 - 1 Zucchini
 - 1/2 Avocado
 - Few Pieces of Broccoli
+- Onion
+- I use garlic, salt, pepper, curry and sriracha for additional flavor.
+
+_Dinner_:
+
+I still don't know exactly what to eat for dinner. One option is not to have dinner, but I need to eat more calories during the day.
+
+---
+
+## Sleep
+
+I have tried to sleep for 6 hours, but after 3 weeks I realize that I need more time. I will increment my sleep by 30 min, until I find the right amount.
+
+App being used at the moment "Alarmy", with an alarm that can be deactivated by doing 100 steps.
 
 ---
 
